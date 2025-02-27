@@ -6,9 +6,7 @@
 3. Technologies and Packages Used  
 4. Features and Functionalities  
 5. API Endpoints  
-6. Database Schema  
-7. Image Storage and Management  
-8. Conclusion  
+
 
 ## 1. Introduction
 This is a full-stack e-commerce website built using the **MERN (MongoDB, Express, React, Node.js) stack**. It allows users to browse products, add items to their cart, process payments securely, and track orders. Admins can manage products and update order statuses.
